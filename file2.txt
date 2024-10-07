@@ -2,3 +2,6 @@ This is file2
 
 new line added in file2 in main
 add 
+add more lines
+add more
+
