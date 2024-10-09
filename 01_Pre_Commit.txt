@@ -1,0 +1,19 @@
+
+Step 1 --> pip install pre-commit
+
+Step 2 (optional) --> pre-commit --version
+
+Step 3 --> git init (any folder project)
+
+Step 4 --> create in that folder one file name is = (.pre-commit-config.yaml )
+
+Step 5 --> Configure that file
+
+Step 6 --> after that run commmad git add .
+
+Step 7 --> to see pre-commit works or not we can use 'pre-commit run' command
+
+Step 8 --> after that if any change are required then its automatically changes and after that git add .
+
+Step 9 --> when we commit them pre-commit automnatically run and executes and modify if any change are required
+
